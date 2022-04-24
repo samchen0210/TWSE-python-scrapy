@@ -3,7 +3,7 @@
 This side project was inpried from the trend of stockmarket investment, and was not responsible for invesement suggestion
 
 1. Project main idea
-> * Establish stock database 
+> * Create stock database 
 > * Collect TWSE stock price data from the past and keep track the future ones
 > * Apply different common techinical indicators and visualize the results
 > * Fill in ML mode 
